@@ -1,0 +1,23 @@
+# Site settings
+title: "HONGDUCK"
+bye_message: "Thx!"
+baseurl: "/clyell/"
+url: "https://hongduck.github.io"
+# disqus: gjuniioor
+
+# Header settings
+nick: "HONGDUCK"
+mail:
+    domain: "protonmail"
+    ext: "ch"
+source_code:
+    server: "github.com"
+    nick: "HONGDUCK"
+blog:
+    server: "wordpress.com"
+    nick: "HONGDUCK"
+fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
