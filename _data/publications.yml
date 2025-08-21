@@ -1,0 +1,27 @@
+#LAYOUT
+#- id: sample2024
+  #title: Simple Paper Example
+  #authors: John Doe, Jane Roe
+  #year: 2024
+  #venue: Journal of Cryptography
+  #type: journal
+  #doi: 10.xxxx/yyyyy
+  #url: "https://hello.com"
+
+- id: HKLS24 
+  title: A new fine tuning method for FHEW/TFHE bootstrapping with IND-CPAD security
+  authors: Deokhwa Hong, Young-Sik Kim, Yongwoo Lee, and Eunyoung Seo
+  year: 2024
+  venue: Cryptology ePrint Archive
+  type: aaa 
+  url: "https://eprint.iacr.org/2024/1052"
+
+- id: HCLK25 
+  title: Overlapped Bootstrapping for FHEW/TFHE and Its Application to SHA3
+  authors: Deokhwa Hong, Youngjin Choi, Yongwoo Lee, and Young-Sik Kim 
+  year: 2025
+  venue: Financial Cryptography and Data Security 
+  type: conference
+  url: "https://eprint.iacr.org/2024/1667"
+
+

@@ -1,8 +1,8 @@
----
-layout: blog
-title: "Blog Posts"
-permalink: /blog/
----
+<!------->
+<!--layout: blog-->
+<!--title: "Blog Posts"-->
+<!--permalink: /blog/-->
+<!------->
 
 <ul class="posts">
     {% for post in site.categories.blog %}

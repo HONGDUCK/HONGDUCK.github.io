@@ -1,8 +1,8 @@
----
-layout: blog
-title: "Category List"
-permalink: /category/
----
+<!------->
+<!--layout: blog-->
+<!--title: "Category List"-->
+<!--permalink: /category/-->
+<!------->
 
 <header>
     <h1>Category List</h1>

@@ -1,0 +1,12 @@
+<ul style="list-style-type:none; padding-left:0; margin-left:0;">
+  {% for pub in site.data.publications %}
+    <li style="margin-bottom:1em; padding-left:1em; border-left:3px solid #ccc;">
+        <strong><a href="{{pub.url}}">{{ pub.title }}</a></strong><br>
+      <em>{{ pub.authors }}</em><br>
+      {{ pub.venue }} ({{ pub.year }})<br>
+      {% if pub.doi %}
+        DOI: <a href="https://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
