@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: default 
 ---
 
 ### About
@@ -20,7 +20,7 @@ M.S., Inha University, Electrical and Computer Engineering (Aug 2024 ~ present)
 1. ***<a href="https://openfhe.org">OpenFHE</a>*** / Contributor (Nov 2023 ~)
     * Optimizing XOR gate operations
 
-2. ***<a href="https://desilo.ai/about">DeiloFHE</a>*** / Intern (Jul 2025 ~ Present)
+2. ***<a href="https://desilo.ai/about">DesiloFHE</a>*** / Intern (Jul 2025 ~ Present)
     * Implementing several variants of CKKS bootstrapping
 
 ### Publications

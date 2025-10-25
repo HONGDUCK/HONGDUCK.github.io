@@ -1,3 +1,6 @@
+header_pages:
+  - index.md   # 필요한 페이지만 남기기
+
 # Site settings
 title: "HONGDUCK"
 bye_message: "Thx!"
