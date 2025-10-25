@@ -8,13 +8,13 @@
   #doi: 10.xxxx/yyyyy
   #url: "https://hello.com"
 
-- id: HKLS24 
-  title: A new fine tuning method for FHEW/TFHE bootstrapping with IND-CPAD security
-  authors: Deokhwa Hong, Young-Sik Kim, Yongwoo Lee, and Eunyoung Seo
-  year: 2024
+- id: HL25 
+  title: Optimizing FHEW-Like Homomorphic Encryption Schemes with Smooth Performance-Failure Trade-Offs 
+  authors: Deokhwa Hong, and Yongwoo Lee
+  year: 2025
   venue: Cryptology ePrint Archive
-  type: aaa 
-  url: "https://eprint.iacr.org/2024/1052"
+  type: preprint
+  url: "https://eprint.iacr.org/2025/1892"
 
 - id: HCLK25 
   title: Overlapped Bootstrapping for FHEW/TFHE and Its Application to SHA3
@@ -24,4 +24,11 @@
   type: conference
   url: "https://eprint.iacr.org/2024/1667"
 
+- id: HKLS24 
+  title: A new fine tuning method for FHEW/TFHE bootstrapping with IND-CPAD security
+  authors: Deokhwa Hong, Young-Sik Kim, Yongwoo Lee, and Eunyoung Seo
+  year: 2024
+  venue: Cryptology ePrint Archive
+  type: preprint
+  url: "https://eprint.iacr.org/2024/1052"
 

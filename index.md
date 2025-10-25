@@ -27,3 +27,7 @@ M.S., Inha University, Electrical and Computer Engineering (Aug 2024 ~ present)
 
 {% include publications.html %}
 
+### Awards
+
+{% include awards.html %}
+

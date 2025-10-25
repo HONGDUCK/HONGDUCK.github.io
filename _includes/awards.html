@@ -1,0 +1,9 @@
+<ul style="list-style-type:none; padding-left:0; margin-left:0;">
+  {% for awd in site.data.awards%}
+    <li style="margin-bottom:1em; padding-left:1em; border-left:3px solid #ccc;">
+        <strong>{{ awd.venue }}</strong> ({{ awd.year }})<br>
+      {{ awd.title }}<br>
+    </li>
+  {% endfor %}
+</ul>
+
