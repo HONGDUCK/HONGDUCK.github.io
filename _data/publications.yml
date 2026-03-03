@@ -8,6 +8,14 @@
   #doi: 10.xxxx/yyyyy
   #url: "https://hello.com"
 
+- id: HLKL26
+  title: A White-Box Bootstrapping Approach for High Precision Comparison Over Homomorphic Encryption
+  authors: Deokhwa Hong, Heesoo Lee, Young-Sik Kim, and Yongwoo Lee
+  year: 2026
+  venue: Cryptology ePrint Archive
+  type: preprint
+  url: "https://eprint.iacr.org/2026/418"
+
 - id: HL25 
   title: Optimizing FHEW-Like Homomorphic Encryption Schemes with Smooth Performance-Failure Trade-Offs 
   authors: Deokhwa Hong, and Yongwoo Lee
@@ -25,10 +33,9 @@
   url: "https://eprint.iacr.org/2024/1667"
 
 - id: HKLS24 
-  title: A new fine tuning method for FHEW/TFHE bootstrapping with IND-CPAD security
+  title: A New Fine Tuning Method for FHEW/TFHE Bootstrapping with IND-CPAD Security
   authors: Deokhwa Hong, Young-Sik Kim, Yongwoo Lee, and Eunyoung Seo
   year: 2024
   venue: Cryptology ePrint Archive
   type: preprint
   url: "https://eprint.iacr.org/2024/1052"
-

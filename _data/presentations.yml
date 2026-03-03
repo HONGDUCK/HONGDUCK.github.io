@@ -1,0 +1,25 @@
+#LAYOUT
+#- id: sample2024
+  #title: Simple Paper Example
+  #authors: John Doe, Jane Roe
+  #year: 2024
+  #venue: Journal of Cryptography
+  #type: journal
+  #doi: 10.xxxx/yyyyy
+  #url: "https://hello.com"
+
+- id: HLKL26_Poster
+  title: A White-Box Bootstrapping Approach for High Precision Comparison Over Homomorphic Encryption
+  authors: Deokhwa Hong, Heesoo Lee, Young-Sik Kim, and Yongwoo Lee
+  year: 2026
+  venue: FHE.org 
+  type: Poster 
+  url: "https://fhe.org/conferences/conference-2026/"
+
+- id: HCLK25_Oral
+  title: Overlapped Bootstrapping for FHEW/TFHE and Its Application to SHA3
+  authors: Deokhwa Hong, Youngjin Choi, Yongwoo Lee, and Young-Sik Kim 
+  year: 2025
+  venue: Financial Cryptography and Data Security 
+  type: Oral
+  url: "https://fc25.ifca.ai"

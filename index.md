@@ -6,7 +6,7 @@ layout: default
 
 Hello... :)
 
-I’m just a fool, but a happy cryptographer with passion!
+I’m Deokhwa Hong!
 
 ### Education
 
@@ -22,6 +22,7 @@ M.S., Inha University, Electrical and Computer Engineering (Aug 2024 ~ present)
 
 2. ***<a href="https://desilo.ai/about">DesiloFHE</a>*** / Intern (Jul 2025 ~ Present)
     * Implementing several variants of CKKS bootstrapping
+    * Optimizing CKKS bootstrapping
 
 ### Publications
 
@@ -31,3 +32,6 @@ M.S., Inha University, Electrical and Computer Engineering (Aug 2024 ~ present)
 
 {% include awards.html %}
 
+### Presentations 
+
+{% include presentations.html %}
